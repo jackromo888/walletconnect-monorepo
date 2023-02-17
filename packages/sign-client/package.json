@@ -41,7 +41,7 @@
     "@walletconnect/logger": "1.0.1",
     "@walletconnect/time": "1.0.1",
     "@walletconnect/types": "2.0.0-rc.2",
-    "@walletconnect/utils": "2.0.0-rc.2",
+    "@walletconnect/utils": "2.3.2",
     "pino": "6.7.0",
     "pino-pretty": "4.3.0"
   },
