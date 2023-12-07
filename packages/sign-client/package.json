@@ -37,7 +37,7 @@
     "@walletconnect/events": "1.0.0",
     "@walletconnect/heartbeat": "1.0.0",
     "@walletconnect/jsonrpc-provider": "1.0.5",
-    "@walletconnect/jsonrpc-utils": "1.0.3",
+    "@walletconnect/jsonrpc-utils": "1.0.8",
     "@walletconnect/logger": "1.0.1",
     "@walletconnect/time": "1.0.1",
     "@walletconnect/types": "2.0.0-rc.2",
