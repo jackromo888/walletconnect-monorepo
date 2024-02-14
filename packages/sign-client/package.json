@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "@walletconnect/core": "2.0.0-rc.2",
-    "@walletconnect/events": "1.0.0",
+    "@walletconnect/events": "1.0.1",
     "@walletconnect/heartbeat": "1.0.0",
     "@walletconnect/jsonrpc-provider": "1.0.5",
     "@walletconnect/jsonrpc-utils": "1.0.3",
